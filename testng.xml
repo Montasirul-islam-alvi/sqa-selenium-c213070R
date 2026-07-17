@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="IIUC SQA Practical Suite" verbose="1">
+    <test name="Automation Exercise Login Tests">
+        <classes>
+            <class name="com.iiuc.sqa.AutomationExerciseLoginTest"/>
+        </classes>
+    </test>
+</suite>
